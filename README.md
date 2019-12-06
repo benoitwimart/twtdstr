@@ -2,7 +2,7 @@
 
 Script pour effacer les N+10 derniers tweets.
 - demander vos datas à Twitter
-- ajouter les trucs Abraham
+- ajouter les trucs Abraham https://github.com/abraham/twitteroauth
 - mettre un cron tous les X minutes (15 pour ne pas abuser)
 
 Après plusieurs lancements, il vous restera 10 tweets.
