@@ -1,6 +1,7 @@
 # twtdstr
 
 Script pour effacer les N+10 derniers tweets.
+- créer une app https://developer.twitter.com/en/apps
 - demander vos datas à Twitter
 - ajouter les trucs Abraham https://github.com/abraham/twitteroauth
 - mettre un cron tous les X minutes (15 pour ne pas abuser)
